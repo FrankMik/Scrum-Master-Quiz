@@ -10,7 +10,8 @@ Eine kleine Webanwendung, mit der Nutzer ihr Wissen über Scrum und die Rolle de
 
 ## 🚀 Live Demo
 
-👉 **Live:** (https://frankmik.github.io/Scrum-Master-Quiz/)
+👉 **Live:**                  
+https://frankmik.github.io/Scrum-Master-Quiz/
 
 ## 🖼 Screenshots
 
