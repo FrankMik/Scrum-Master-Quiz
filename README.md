@@ -30,6 +30,5 @@ Eine kleine Webanwendung, mit der Nutzer ihr Wissen über Scrum und die Rolle de
 
 ## 🛠 Tech Stack
 
-- HTML, CSS, JavaScript  
-- Optional: React / Framework (falls du eines verwendest, hier eintragen)  
+- HTML, CSS, JavaScript       
 - GitHub Pages für Hosting
